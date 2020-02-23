@@ -1,9 +1,9 @@
 {
-  "name": "nestjs-typeorm-paginate",
+  "name": "nestjs-typeorm-paginate-modified",
   "author": {
-    "name": "Ashleigh Simonelli",
-    "email": "ashleighsimonelli@gmail.com",
-    "url": "http://ashleighsimonelli.co.uk"
+    "name": "Dwi Purnomo",
+    "email": "dwipurnomo.yk@gmail.com",
+    "url": "http://antaraksi.com"
   },
   "main": "./dist/index.js",
   "repository": {
@@ -61,5 +61,5 @@
     },
     "coverageDirectory": "../coverage"
   },
-  "version": "1.0.3"
+  "version": "2.0.0"
 }
